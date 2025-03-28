@@ -143,12 +143,13 @@ def dev_ocr(pdf_path, save_path):
 
 def dev_find_challenges(txt_path):
     # print lines that contain keywords
+    relevant_lines = []
     with open(txt_path, 'r') as f:
         lines = f.readlines()
         for line in lines:
             if URL_KW.count(line.lower()) > 0:
-                print(line)
-    return
+                relevant_lines.append(line)
+    return relevant_lines
 
 if __name__ == "__main__":
     # Get pdf paths
