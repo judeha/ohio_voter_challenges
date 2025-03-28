@@ -1,0 +1,319 @@
+The regular monthly meeting of the Erie County Board of Elections was called to order by 
+Chairman Ferrell at 9:00 a.m. on Monday, June 29, 2020.  
+ 
+Roll Call:       (D) Thomas M. Ferrell, Chairman                         Present 
+(D) William J. Monaghan, Member  Present 
+                        (R) Nicholas J. Smith, Member                          Present 
+                        (R) Jeffrey N. Krabill, Member              Present 
+ 
+Guests in attendance: Caleb Stidham, Amy Grubbe, Tim Jonovich 
+ 
+Motion to approve the minutes from the previous meeting was made by Mr. Monaghan, 
+seconded by Mr. Krabill.  Motion carried.  
+ 
+Ms. Salyers, director, stated that she included an email from Diane Grosso at the Secretary 
+of State’s Office in all the board members’ packets.  Ms. Grosso asked Ms. Salyers how we 
+were doing with finding I.T. support.  Ms. Salyers stated that we had talked about it at 
+board meetings, but nothing had been voted on.  Ms. Grosso replied that it needed to get 
+done ASAP.  According to Ms. Grosso, it cannot just be someone who likes to work on 
+computers; it must be a company that is familiar with the SOS security agreement.  The 
+four companies recommended by Ms. Grosso were Meyer-Hill Lynch, Net Point 
+Consulting, Meta Solutions, and Dayton Technology Group, Inc (DTGi).  Ms. Salyers 
+stated that she invited Tim Jonovich, head of the county I.T. department, to the meeting to 
+provide further insight.  While waiting for Mr. Jonovich to arrive, Ms. Salyers moved onto 
+the next item on the agenda.  
+ 
+Ms. Salyers stated that the SOS office has been having weekly task force meetings about 
+the November election.  In the task force, BOE staff learned that the SOS office is going to 
+mail out courtesy absentee ballot request forms to all registered voters after Labor Day.  
+The office has been telling this to voters who are calling now for request forms, but will still 
+mail the request forms out if the voters want to get it done now.  Also, mailing some request 
+forms now will help prevent getting bombarded with requests closer to the election.   
+ 
+Ms. Salyers also stated that according to the task force meetings, boards cannot have any 
+polling locations in nursing homes for this election.  Ms. Salyers stated that she would like 
+to make an exception for the OVH, because the only people who vote there are the people 
+who live there, but she doesn’t think the SOS will budge on that.  Mr. Monaghan suggested 
+having someone from the board call the SOS to explain the situation.  Mr. Krabill stated 
+that his concern with moving the OVH precinct was the problems this would cause 
+residents with mobility issues.  He stated that that might dissuade some residents from 
+voting, and that’s not right.  Mr. Ferrell stated that he would call the director at the OVH.  
+Mr. Krabill asked if Mr. Ferrell’s conversation with the director could result in a letter to 
+the SOS.  Ms. Salyers stated that if we could get residents or nurses to work that precinct, 
+it would be good.  It is more of a hassle and more dangerous to move the residents to a 
+different voting location as opposed to staying at the OVH.   
+ 
+Mr. Krabill inquired about the next item on the agenda “polling place in Vermilion.”  Ms. 
+Salyers asked if we needed to move some of the precincts out of Ritter Public Library.  The 
+board members did not think that was necessary because the five precincts there were 
+scheduled to be there in March, and the old union hall next door can be used for additional 
+parking.  Mr. Krabill stated that he hated to see it changed unless it was absolutely 
+necessary, because then that would mean re-educating those voters.  Ms. Salyers stated that 
+she would speak with Ritter Library, and if they were okay with the five precincts being 
+there, then we would leave it as is.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 1 of 5
+
+By this time, Mr. Jonovich had arrived, and further explained the situation with I.T.  He 
+stated that the guidelines set by the state are quite strict.  He also stated that the board was 
+still working with Cyber Defenses to figure out the slowness with the computers.  The 
+board is going back and forth with Cyber Defenses and Triad to try to figure it out.  Of the 
+four companies recommended by Ms. Grosso, Mr. Jonovich surmised that most of them 
+would just give the board block hours.  Whatever company the board decides to go with 
+would do preventative and mandated updates, reboots, maintenance, and any other 
+troubleshooting.  Mr. Jonovich stated that the price point would likely be based on how 
+many terminals you have.  
+ 
+Mr. Krabill asked if this was a budgeted item, or if this would be new money.  Ms. Salyers 
+responded new money.  She stated that county I.T. was taking care of it, but that the 
+commissioners want the board to stop using county I.T. and use outside help.  Mr. Jonovich 
+stated that the county I.T. department hasn’t had to do much, but pointed out that the 
+board now has a firewall and three separate servers.  
+ 
+Next, Ms. Salyers brought up concerns about the internet.  She stated that desk computers 
+in the office are not connected to the internet in any way, shape, or form.  According to 
+Triad, though, having all these cyber safeguards on the computers is like having car 
+insurance.  If you don’t have a car, why have insurance?  Mr. Jonovich stated that he 
+wanted to make a slight correction to that.  Board staff is getting windows and Microsoft 
+updates through the web, so they do have internet in that sense; they just don’t have it for 
+web surfing.  
+ 
+Ms. Salyers stated that the problem was that, when other Boards of Elections have issues, 
+one of the I.T. companies remotely taps into the computers.  Whichever company the board 
+decides to go with would not be able to do that in Erie County, because of the office not 
+having internet.  Mr. Jonovich replied that they could tap in with the firewall and a v.p.n., 
+or virtual private network.  Mr. Jonovich also explained that that was how Cyber Defenses 
+and Triad gets in now.  
+ 
+Ms. Salyers stated okay, and that that was the main concern she had.  Without the 
+companies being able to tap in, the board would have to pay people to travel here, fix the 
+computers, and then travel back, and that would get very expensive.  Mr. Jonovich 
+reiterated that most things could be done remotely, but that some things would have to be 
+done on sight.  Mr. Ferrell then recommended that Ms. Salyers speak with other, similarly 
+sized counties to see what companies they ended up choosing.  
+ 
+The next item on the agenda was time off over Christmas.  Ms. Salyers was wondering, 
+because the office has so much comp time and also personal time to use, if it would be okay 
+to work until December 23, close the office for Christmas, and then come back on January 
+4.  The board members stated that that would be fine.  Motion to approve that time off was 
+made by Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.   
+ 
+Next Ms. Salyers asked about time off for July 4.  The county is making Friday, July 3 a 
+holiday, but according to the Board’s furlough schedule, the office will be furloughed on 
+that day.  Ms. Salyers was wondering if the office could instead take its furlough day on 
+Monday, July 6, so as not to lose the holiday time given by the county.  The board members 
+agreed that that would be fine.  Motion to approve closing the office July 6 was made by 
+Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.  Mr. Krabill reminded the staff 
+to update the website and to notify the Sandusky Register and the radio station.  
+ 
+Next Ms. Salyers stated that the meetings in July and September both fall on Fridays when 
+staff would be furloughed, so those would need to be rescheduled.  After discussing for a
+
+Next Ms. Salyers stated that the meetings in July and September both fall on Fridays when 
+staff would be furloughed, so those would need to be rescheduled.  After discussing for a 
+few minutes, the board agreed that the July meeting would be Tuesday, July 21 at 9 a.m., 
+and the September meeting would be Monday, September 28 at 9 a.m.  Motion to approve 
+these changes was made by Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.   
+ 
+ 
+ 
+ 
+Page 2 of 5
+
+Next Ms. Salyers talked about the possibility of reducing clerk positions at multi precinct 
+locations and the possibility of using non-affiliated poll workers this election.  While 
+nothing in writing has come out saying that boards could reduce clerk positions, it is in the 
+Elections Officials Manual that precincts can have up to two non-affiliated people working 
+in a precinct.   
+ 
+Mr. Krabill stated that he had been in contact with Eric Wobser, city manager for 
+Sandusky, about the possibility of city employees working the polls on Election Day.  Mr. 
+Wobser emailed Mr. Krabill and stated that the city was very interested in helping out.  
+Trevor Hayberger, law director for the city of Sandusky, also expressed willingness to help.  
+They will be reaching out to the employees and the unions, and at some point there will be 
+a meeting that Ms. Salyers or Ms. James should probably attend.  Ms. Salyers stated to just 
+let her know when, and she could attend.  Mr. Krabill stated that without knowing which 
+of our usual poll workers would be working, it was imperative to get as many people 
+trained as we can.  He stated that many of the city workers could work in the surrounding 
+areas: Sandusky, Perkins, Huron, or potentially Margaretta.  Ms. Link also stated that we 
+should train more people to have on the back burner, because that is something that we 
+never really did before.   
+ 
+Next, Ms. Salyers stated that a poll worker contacted her and was a little upset about poll 
+worker pay last election.  The worker wanted to know why she, a VLM who went through 
+three hours of training, received the same pay as clerks and ballot judges, who only went 
+through half an hour of training.  Ms. Salyers stated that the board decided on that just to 
+make it easier for everyone involved, including the Auditor’s office.  She also informed the 
+poll worker that she would make the board aware, and the poll worker said thank you.  
+The board members commented that the pay for this past election was more than many 
+surrounding counties.  
+ 
+Next, Mr. Monaghan stated that he was familiar with everyone in the room except for the 
+young man sitting across from him.  He introduced himself as Caleb Stidham, the chair of 
+the Erie County Republican Party.   
+ 
+Next, Mr. Ferrell asked Ms. Grubbe if she had some questions.  Ms. Grubbe asked about 
+ballot applications, and if the board was setting up labels now for that.  Ms. Link stated she 
+wasn’t sure what she meant by “labels” but that staff was starting to apply the applications 
+now.  Ms. Grubbe asked what was meant by “apply.”  Ms. James stated that as the office 
+gets applications, they are inputting them to the computer system, and that they will mail 
+out ballots October 6, the first day ballots are permitted to be mailed.  Starting in late 
+September, the office will have the actual ballots, and will start stuffing envelopes and 
+putting labels on envelopes in preparation for that first mailing.  Mr. Krabill stated that he 
+thought Ms. Grubbe was asking about ballot applications.  Ms. James stated that if 
+someone calls and requests an absentee ballot, that she mails them a request form.  Ms. 
+Salyers stated that she was telling people to wait until the Secretary of State mails the 
+request form in September.  She stated that she was doing it this way to avoid confusion.  
+She then asked the board how they wanted us to proceed.  Mr. Monaghan suggested 
+enclosing a note with the applications, or otherwise letting people know, that they may also 
+get an application from the SOS office closer to the election.  The staff members agreed 
+that that was a good idea.   
+ 
+Ms. Grubbe then asked for clarification on ballot applications: If someone calls the office 
+requesting an absentee ballot, will office staff be mailing them a request form?  Ms. James 
+stated yes.  Ms. Grubbe then asked about labels again.  Ms. Link explained that as the
+
+requesting an absentee ballot, will office staff be mailing them a request form?  Ms. James 
+stated yes.  Ms. Grubbe then asked about labels again.  Ms. Link explained that as the 
+office staff applies request forms, that creates a “queue” for the labels to print out.  Ms. 
+Grubbe asked if labels would be printed out now.  Ms. James stated no, because the labels 
+print out at the same time the ballots print.   
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 5
+
+Next Ms. Grubbe asked Mr. Ferrell if there were any more plans to consolidate polling 
+locations.  Mr. Ferrell responded no.  Ms. Grubbe then asked if the current dropbox would 
+be the only one available.  Mr. Ferrell responded yes, but Mr. Krabill pointed out that it 
+would now be on a higher level.  Ms. Grubbe stated that that was a lot better.  Mr. 
+Monaghan stated that the box would be open 24/7, but Ms. Salyers stated that it would only 
+be open 24/7 during early voting.  Right now it is not.  Ms. Salyers also stated that cameras 
+would be installed in the conference room, along with a motion detector.  Ms. Salyers also 
+stated that the current security system in place works.  She has gotten a couple of calls 
+from the Sheriff’s office when two other county employees, the currier and the county 
+administrator, swiped their badges to get into the office while staff was not there.   
+ 
+Mr. Ferrell asked if there was anything further, and Ms. Grubbe stated she had a couple 
+more questions.  She stated that at the Democratic Central Committee meeting, Mr. 
+Monaghan and Ms. James stated that the dropbox would be open 24/7.  Ms. James clarified 
+that it was Mr. Monaghan who said that.  Ms. Salyers stated that it would be open 24/7 
+during early voting.   
+ 
+Ms. Grubbe then stated that during the central committee meeting, a resolution was passed 
+in regards to safe and fair elections.  She passed out a copy to everyone present, and asked 
+that it be included in the minutes.  The resolution is as follows:  
+ 
+“Erie County Democratic Party Resolution 2020-02 
+Supporting Voting Rights and a Safe, Fair and Accessible General Election  
+ 
+WHEREAS, the right of the citizens of Ohio to cast their ballots in fair and free elections 
+and to have their votes counted is held sacred by the Erie County Democratic Party; and 
+ 
+WHEREAS, any reduction in access to early voting will disproportionately disenfranchise 
+people of color, low-income citizens, the elderly and our military, who often rely on flexible, 
+early voting periods, especially amid a pandemic; and 
+ 
+WHEREAS, increasing the difficulty of voting by mail/absentee voting will 
+disproportionately affect people of color, low-income citizens, health-compromised citizens, 
+the elderly and our military, who rely on absentee ballots to overcome obstacles to voting in 
+person and to secure their health and safety; and  
+ 
+WHEREAS, repealing or expanding statutory ratios of voters to voting machines or voters 
+to precincts and/or consolidating polling locations will result in long, often unmanageable 
+lines and a far less safe and orderly election, undoing the bipartisan consensus reached 
+after the 2004 Ohio debacle and a commitment to never allow that scenario to occur again; 
+and  
+ 
+WHEREAS, refusing to allow multiple secure ballot repositories (drop-boxes) in counties 
+will reduce Ohio citizens’ access to safe voting and promote the traffic and lines seen in the 
+April Primary; and 
+  
+WHEREAS, refusing to use funds from the federal CARES Act and the Help America Vote 
+Act to send ballots to every registered voter in Ohio and/or to pay return postage for ballot 
+applications and ballots is contrary to the intention of those Acts; and 
+ 
+WHEREAS, removing the ability of public health experts and officials to create safety 
+guidelines for in-person voting, if necessary, will unnecessarily force voters to risk their 
+health to exercise their right to vote and will reduce participation in the election; and 
+ 
+WHEREAS, restricting nongovernmental voter participation organizations directly affects 
+people of color, low-income citizens, and the elderly, as these non-profit organizations are 
+particularly likely to reach and engage these underserved citizens; and 
+ 
+ 
+Page 4 of 5
+
+WHEREAS, Democrats in the Ohio House and Senate have proposed numerous common 
+sense bills and amendments to strengthen both in-person and mail-in voting, including on-
+line ballot applications, mailing postage-paid ballots to all voters, additional in-person early 
+voting locations, multiple secure drop-boxes, counting ballots postmarked by Election Day 
+and allowing 17 year old High School Juniors to train and work at polling locations; and 
+ 
+WHEREAS, Democrats holding public offices at all levels around Ohio, as well as others 
+who respect voting rights, have an opportunity to assist in protecting the right to vote in 
+Ohio against the onslaught of purging by serving as hubs of non-partisan voter registration 
+all across the state; and  
+ 
+NOW THEREFORE BE IT RESOLVED that the Erie County Democratic Party 
+condemns all voter suppression practices and techniques and commits unequivocally to 
+fighting voter suppression in all forms, whether that fight occurs at the state level or at the 
+county board of elections level; and  
+ 
+BE IT RESOLVED that the Erie County Democratic Party supports all of the heretofore 
+described common sense reforms proposed by Democratic elected officials and urges the 
+133rd Assembly of the Ohio Legislature, the Erie County Republican Party and the Ohio 
+Republican Party to join in committing to fight voter suppression in all forms and to 
+promoting best practices in expanding access to the polls for all eligible Ohioans; and  
+ 
+BE IT RESOLVED that the Erie County Democratic Party urges elected Democrats at all 
+levels of public office to open hubs of non-partisan voter registration, where appropriate, 
+between now and the last day of registration; and  
+ 
+FINALLY BE IT RESOLVED that this Resolution be disseminated to the Erie County 
+Board of Elections, the Erie County Republican Party, Ohio’s Secretary of State, Ohio’s 
+legislative majority and minority leaders, State Senator Theresa Gavarone and State House 
+Representative D J Swearingen. 
+ 
+Approved June 25, 2020.” 
+ 
+Next, Ms. Grubbe thanked staff for providing a list of voters whose party affiliation 
+changed during this last primary.  However, she stated that there were some discrepancies 
+on the list.  She mentioned one voter who requested a Republican ballot for the primary, 
+but the list had him as undecided.  Ms. Grubbe stated she had many examples like this.  
+She also expressed concern that the Special Election in May 2019 may have skewed some 
+voters, and made them be undecided, when they shouldn’t be.  Mr. Krabill suggested that 
+the staff research the issue regarding the May 2019 Special Election, and report back at the 
+next meeting.  He also suggested Ms. Grubbe email the office the names of people whose 
+party affiliation is incorrect, so that the staff can look into that as well.   
+ 
+Motion to adjourn was made by Mr. Monaghan, seconded by Mr. Krabill.  Motion carried.  
+Board adjourned at 9:48 a.m.  
+ 
+ 
+ 
+ 
+Lori J. Salyers, Director 
+ 
+Attest: 
+ 
+__________________________________________  
+Thomas M. Ferrell, Chairman 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 5 of 5
+

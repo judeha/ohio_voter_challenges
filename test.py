@@ -3,10 +3,16 @@ from urllib.parse import urlencode, urlparse, urljoin, parse_qs
 from urllib.request import Request, urlopen
 import json
 from bs4 import BeautifulSoup
-from utils import get_driver
+from utils import get_driver, get_driver_downloader
 import time
 import yaml
+import os
+import re
+import shutil
 import logging
+import glob
+from langchain_community.document_loaders import PyPDFLoader
+import pymupdf4llm
 
 # Read configs
 with open('config.yaml', 'r') as file:
@@ -30,7 +36,7 @@ def dev_get_boe_websites():
     pass
 
 def dev_get_urls(website, depth, visited=None):
-    """Given a website, search for relevant urls"""
+    """Given a website, return list of relevant urls"""
     driver = get_driver()
 
     # Init visited set
@@ -73,26 +79,80 @@ def dev_get_urls(website, depth, visited=None):
 
     return found_links
 
-
     # url = 'https://www.brides.com/story/how-to-write-the-perfect-best-man-speech'
     # https://www.google.com/search?q=StackOverflow
     # response = requests.get(url)
     # soup = BeautifulSoup(response.content, features="html.parser")
     # for tag in soup.find_all('h3'):
     #     print(tag.text.strip())
+    
+def is_relevant_log_entry(log_entry, keywords):
+    """Given a log entry, determine if it is relevant"""
+   # read log entry of format 2025-03-27 16:47:10,942 - __main__ - INFO - https://www.boe.ohio.gov/fayette/voter-registration-information/how-to-register/
+    url = log_entry.split(' - ')[-1]
+    return (any(kw in url for kw in keywords))
 
-def test_chrome():
-    url = "https://www.brides.com/story/how-to-write-the-perfect-best"
+def get_relevant_urls(log_file, keywords):
+    """Given a path to a log file, returns list of relevant urls"""
+    with open(log_file, 'r') as f:
+        log_entries = f.readlines()
+
+    relevant_urls = []
+    for log_entry in log_entries:
+        if is_relevant_log_entry(log_entry, keywords):
+            relevant_urls.append(log_entry.split(' - ')[-1])
+    
+    return relevant_urls
+
+def dev_get_meeting_minutes(url):
+    """Given a URL, return list of all to meeting minutes"""
     driver = get_driver()
     driver.get(url)
+    response = driver.page_source
+    soup = BeautifulSoup(response, "html.parser")
+
+    minutes_url = []
+    # Find all meeting minutes on the page
+    for a_tag in soup.find_all("a", href=True):
+        # if is pdf or contains 'minutes'
+        if a_tag["href"].endswith(".pdf") or "minutes" in a_tag["href"].lower():
+            minutes_url.append(a_tag["href"])
+    return minutes_url
+
+def dev_download_meeting_minutes(url):
+    """Given a URL, download the meeting minutes to a pdf in 'data/' """
+    driver = get_driver_downloader()
+    driver.get(url)
+
+    return
+
+def dev_ocr(pdf_path, save_path):
+    """Given a path to a saved pdf, convert to txt with ocr"""
+
+    # Get Langchain Document with OCR
+    loader = PyPDFLoader(pdf_path)
+    pages = loader.load_and_split()
+
+    # Get plaintext to save to new file
+    with open(save_path, 'w') as f:
+        for page in pages:
+            f.write(page.page_content)
+            f.write("\n\n")
+
+    return
+
+def dev_find_challenges(txt_path):
+    # print lines that contain keywords
+    with open(txt_path, 'r') as f:
+        lines = f.readlines()
+        for line in lines:
+            if URL_KW.count(line.lower()) > 0:
+                print(line)
+    return
 
 if __name__ == "__main__":
-    # read json
-    with open('boe_websites.json') as f:
-        counties = json.load(f)
-    
-    for c,url in counties.items():
-        try:
-            dev_get_urls(url, 2)
-        except Exception as e:
-            logger.error(f"Error fetching {url}: {e}")
+    # Get pdf paths
+    for pdf_path in glob.glob("data/pdf/*.pdf"):
+        # strip .pdf
+        save_path = "data/txt/" + pdf_path[9:-4] + ".txt"
+        pages = dev_ocr(pdf_path, save_path)

@@ -3,17 +3,25 @@ name = "ohio_voter_challenges"
 version = "0.1.0"
 description = ""
 readme = "README.md"
-requried-python-version = ">=3.10"
+requried-python-version = ">=3.9"
 dependencies = [
     "requests>=2.32.3",
     "scrapy>=2.11.2",
-    "pandas>=2.2.2",
+    "pandas",
     "ruff>=0.6.3",
     "pymongo>=4.10.1",
-    "numpy>=1.21.2",
+    "pyyaml",
+    "numpy",
+    "requests",
+    "lxml",
+    "beautifulsoup4",
+    "cssselect",
     "ipykernel>=6.4.1",
-    "crawl4ai[sync]",
+    "requests-html",
     "selenium",
     "scipy",
-    "matplotlib"
+    "matplotlib",
+    "pdfminer",
+    "langchain-community",
+    "unstructured"
 ]

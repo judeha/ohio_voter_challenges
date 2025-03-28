@@ -47,10 +47,24 @@ def get_driver():
     # Add experimental options and arguments to Chrome options
     chrome_options.add_experimental_option('prefs', prefs)
     chrome_options.add_argument('--kiosk-printing')
-    chrome_options.add_argument('--no-sandbox')
+    # chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-blink-features=AutomationControlled')
 
     # Set up the Chrome WebDriver service and initialize the driver with the specified options
+    service = Service("/opt/homebrew/bin/chromedriver")  # Update with your path to chromedriver
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    return driver
+
+def get_driver_downloader():
+    # Initialize Chrome options
+    chrome_options = webdriver.ChromeOptions()
+
+    chrome_options.add_experimental_option('prefs', {
+    "download.default_directory": os.path.join(os.getcwd(),'data/pdf'), #Change default directory for downloads
+    "download.prompt_for_download": False, #To auto download the file
+    "download.directory_upgrade": True,
+    "plugins.always_open_pdf_externally": True #It will not show PDF directly in chrome
+    })
     service = Service("/opt/homebrew/bin/chromedriver")  # Update with your path to chromedriver
     driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver

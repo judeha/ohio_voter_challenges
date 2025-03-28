@@ -1,0 +1,399 @@
+The regular meeting of the Erie County Board of Elections was called to order by 
+Chairman Ferrell at 9:00 a.m. on Friday, August 21, 2020.  
+ 
+Roll Call:       (D) Thomas M. Ferrell, Chairman                         Present 
+(D) William J. Monaghan, Member  Present 
+                        (R) Nicholas J. Smith, Member                          Present 
+                        (R) Jeffrey N. Krabill, Member              Present 
+ 
+Guests in attendance: Bob Matney from Netpoint Consulting, Barbara Cicalese from 
+Common Cause, Diane Schaefer, and Amy Grubbe from Erie County Democratic Party 
+ 
+Motion to approve the minutes from the previous meeting was made by Mr. Monaghan, 
+seconded by Mr. Krabill.  Motion carried.   
+ 
+Motion to pay the bills was made by Mr. Monaghan, seconded by Mr. Krabill.  Motion 
+carried.   
+ 
+Ms. Salyers, director, stated that the office had recently started working with Netpoint 
+Consulting and that they had done a very good job.  She then turned it over to Bob Matney 
+of Netpoint Consulting.  
+ 
+Mr. Matney stated that Netpoint is currently working with four county Boards of 
+Elections, including Erie, on the security directives.  There were a few things Netpoint was 
+not happy with because they were not completed correctly, so they are working on shoring 
+those things up.  For example, the systems weren’t properly hardened using industry 
+standards, so they will work on fixing that.   
+ 
+Mr. Matney also stated that the network wasn’t properly segmented.  The Secretary of 
+State wants to be able to communicate within the BOE office room, but not go into other 
+rooms without passing through a firewall.  All mechanisms were in place, but the firewall 
+wasn’t doing anything.   
+ 
+Mr. Matney then stated he had met with the county IT department to work with them to 
+resolve emails.  Currently, emails are not compliant because there is no multi-factor 
+authentication.  They will be moving the emails to Microsoft 365.   
+ 
+Mr. Matney then stated that the biggest issue was network access.  None of the 
+workstations currently have internet access except to do windows updates.  He stated that 
+there is a new tool the Secretary of State’s office is pushing called endpoint detection and 
+response, and internet is needed for that.  Mr. Matney stated that you can never have a 100 
+percent secure system, and that there will always be some type of vulnerability.  However, 
+in his experience with other counties, you can still safely open internet access.  He stated 
+that the firewall keeps people from doing what they shouldn’t be doing, and that anti-virus 
+software helps with that, too.  
+ 
+Mr. Krabill stated that the office is currently in election mode, and that there is no extra 
+time on anyone’s hands.  He expressed concern with getting things done so that the office 
+didn’t have any extra burdens two weeks before the election.   
+ 
+Mr. Matney stated that in the Elections Official Manual, it states that there is a “black-out” 
+period, meaning nothing further can be done with the computers starting from 30 days 
+before an election until after the election is certified.   
+ 
+Mr. Krabill then expressed the importance of getting all the computer updates done and 
+behind us.  He also asked why it would not be simpler to just not have internet access.  Mr. 
+Matney replied that in today’s day and age, it is almost impossible to do the job without 
+internet access.  Mr. Krabill replied that the office had been doing so for quite some time.  
+Mr. Matney stated that that had really hampered the office’s productivity.  Mr. Krabill 
+stated that he was not arguing that we don’t do it, he just wanted to know why internet was 
+needed.  Mr. Matney replied that Netpoint does not work for the Secretary of State’s office; 
+they work for the Board of Elections, and part of that is giving the Boards the best advice 
+they can.   
+ 
+Page 1 of 6
+
+Mr. Ferrell then asked Mr. Matney if he had a timeframe in mind for achieving the 
+updates.  Mr. Matney replied that their deadlines were set by the SOS office.  There are a 
+few things that must be done by the end of this month, but everything must be done by 
+October 2.   
+ 
+Ms. Link, clerk, then gave an update on nursing homes.  She stated that Providence, 
+Concord, Admiral’s Pointe, and Parkvue are not letting us in.  Therefore, we will need to 
+train two employees from each nursing home to help the residents vote.  Ms. Link asked 
+about payment.  She assumed the day the nursing homes vote the employees will get paid 
+by the actual nursing home, but if they come in to the office for a 30 to 40 minute training 
+class, would it be all right to pay them $10?  Mr. Ferrell stated he thought that would be 
+fine.  Ms. Link then gave an update on the other nursing homes in the county.  Mill Manor, 
+Vista Care, and the Meadows are letting us in.  The OVH is not, and at Kingston in 
+Vermilion, all the residents chose to simply vote by mail.   
+ 
+Ms. Salyers then gave another update on the OVH.  She stated that all the residents would 
+be voting absentee, and that the OVH would not open for in-person voting.  Mr. Krabill 
+stated that he thought the OVH had to be open for in-person voting.  Ms. Salyers asked if 
+Mr. Krabill wanted her to call the OVH to tell them that, or if he wanted to do that.  Mr. 
+Krabill suggested Ms. Salyers check with the SOS office to make sure, and then follow up 
+with the OVH.  Ms. Salyers stated that Naomi Twine of the OVH stated that they were not 
+letting residents out of their rooms, which is why they didn’t want to do in-person voting.  
+Ms. Link stated that if none of the residents wanted to vote in-person, then maybe this 
+wouldn’t be an issue.  Mr. Krabill asked if we could define in-person voting more loosely, 
+and just have workers go from room to room, asking residents if they wanted to vote.  Ms. 
+Salyers stated that she suggested to Ms. Twine moving the OVH precinct to the basement 
+of the County Services Center, but Ms. Twine didn’t want to do that, either.   
+ 
+Ms. James, Deputy Director, asked if a motion was needed for paying the nursing home 
+employees coming in for training.  Motion to pay the nursing home employees $10 for 
+training was made by Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.   
+ 
+Ms. Salyers stated that another issue was with the pay rates for other workers.  She had a 
+sheet saying that the rate of pay for some workers was $8.55 an hour, which she believes is 
+below minimum wage.  Mr. Monaghan asked if the pay was increased if that could be paid 
+for with CARES money.  Ms. Salyers stated no because it was not covid-related.  Mr. 
+Krabill stated that he thought we already increased the pay.  Motion to make the pay for 
+workers $10 an hour if it wasn’t already was made by Mr. Monaghan, seconded by Mr. 
+Krabill.  Motion carried.   
+ 
+Next, Ms. Salyers stated that BGSU Firelands was reluctant to let us back in to use as a 
+polling location.  Previously, the precincts housed there (Hur Twp 1 and 2) had been 
+housed at the Huron Township building; they were only moved to Firelands because the 
+township building was undergoing renovations.  However, the renovations are now 
+complete.  Ms. Salyers stated that she called the township building to ask if we could move 
+back there, and they said sure.  Motion to move Huron Township 1 and 2 back to the 
+Huron Township Building and send out permanent change of polling location postcards 
+was made by Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.   
+ 
+Ms. Salyers then stated that she wanted to move Vermilion 3-A and 3-B to Vermilion High 
+School.  Previously they were scheduled to be at Ritter Public Library, but there isn’t 
+enough room there, and none of the Vermilion churches want to let us in.  Mr. Smith 
+expressed his concerns about school being in session.  Ms. Salyers stated that they were
+
+enough room there, and none of the Vermilion churches want to let us in.  Mr. Smith 
+expressed his concerns about school being in session.  Ms. Salyers stated that they were 
+scheduled to go back to school November 3, but that they secretary there stated she 
+doubted very much that they would be back then.  Mr. Smith stated that he was okay with 
+it for this election, but he wanted to revisit it afterwards.  Ms. Salyers asked if he wanted us 
+to send out cards saying the high school is a temporary change.  Mr. Krabill stated that he 
+wouldn’t do that.  He would send out cards that say it is a permanent location, and then we 
+could change it later if needed.  Mr. Krabill asked Mr. Smith why going to the schools 
+would be a problem.  Mr. Smith replied that we got out of schools for a reason, and that 
+was security issues.  Mr. Krabill stated that that was their issue, not ours.  Mr. Krabill 
+stated that the key to going into schools was finding a room that was somewhat separate 
+from the rest of the activities in the schools.  
+Page 2 of 6
+
+Ms. Salyers then asked if, just for this election, board staff had the authority to move any 
+other locations in case another location kicked us out.  Mr. Smith stated that he wanted to 
+make sure that on Election Day, signs would be posted on the old polling locations to 
+remind people where the new locations were.  Ms. Salyers stated that there would be and 
+stated that post cards would go out to all voters who were affected by the changes.  Motion 
+to approve the moving of Vermilion 3-A and 3-B to the high school, and to move any other 
+locations if necessary, whether they are churches are not, was made by Mr. Krabill, 
+seconded by Mr. Monaghan.  Motion carried.  Ms. James asked for clarification if the 
+Vermilion move would be listed as permanent or temporary on the postcards.  Mr. Krabill 
+stated this his assumption was permanent.   
+ 
+Next, Ms. Salyers stated that the auditor’s office needed a new policy from the board 
+related to over-time.  Using guidance from Directive 2020-11, Ms. Salyers wrote up the 
+following changes:  
+ 
+“Overtime during the CARES Act Grant General Election 11-3-2020 
+ 
+For preparation for the General Election of 11/3/2020 extra part time staff and overtime 
+for full time staff may be paid out of the CARES Act Funds according to Directive 2020-11, 
+Page 6, Section B.  Staff: Boards of elections will see high voter turnout this November.  
+Boards must prioritize CARES Act funds to ensure that each board of elections maintains 
+an adequate amount of staff, including temporary staff, to administer the November 3, 
+2020 General Election, including the early voting period.  Boards must prepare to hire 
+additional staff to account for significant increases in absentee voting, voter turnout, 
+questions from voters, early in-person voting, social distancing and cleaning protocols, and 
+voter registration.  Boards must take into consideration the amount of staff the board 
+require to successfully administer an election under normal circumstances and account for 
+higher voter turnout, higher percentage of absentee ballots, and additional social 
+distancing and cleaning protocols that will require more staffing for compliance.  Boards 
+may utilize CARES Act funds to pay existing staff overtime for the completion of duties 
+related to the pandemic that are outside the normal scope of business.   
+ 
+Based on an 8 hour day anything over 8 hours will be considered over time and paid at a 
+rate of 1 ½ times the hourly rate of wages until October 6, 2020 when overtime will then be 
+remunerated in the form of compensatory time at a rate of 1 ½ times the amount of time 
+worked.” 
+ 
+Motion to approve the written policy change was made by Mr. Krabill, seconded by Mr. 
+Monaghan.  Ms. James asked if it could be retroactive until August 1.  Mr. Krabill 
+amended his motion to make it retroactive to August 1, and Mr. Monaghan seconded.  
+Motion carried.   
+ 
+Next, Ms. Salyers stated that she had included in the board members’ packets the list of 
+issues and candidates that would be on the November ballot.  Mr. Smith asked if this list 
+went out somewhere, and Ms. Salyers stated it would be on the internet.  Mr. Smith stated 
+that that was fine, but there were party designations next to the judges’ names, and they 
+needed to be removed, because they are non-partisan races.  Ms. Salyers stated that she 
+would do that.  The board then took a few minutes to review the other issues and 
+candidates.   
+ 
+Motion to approve the candidates but to remove the party designation from the judges was 
+made by Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.  
+ 
+Roll Call:  
+ 
+Mr. Ferrell- yes 
+Mr. Monaghan- yes 
+Mr. Smith- yes 
+Mr. Krabill- yes.  
+ 
+ 
+ 
+ 
+ 
+Page 3 of 6
+
+Motion to approve the issues listed but to remove the redundancies of having San F and 
+San G listed twice on Issues 1 through 5 was made by Mr. Krabill, seconded by Mr. 
+Monaghan.  Motion carried.   
+ 
+Roll Call:  
+ 
+Mr. Ferrell- yes 
+Mr. Monaghan- yes 
+Mr. Smith- yes 
+Mr. Krabill- yes.  
+ 
+Next, Ms. Salyers gave an update on Janotta and Herner.  She stated that we were 
+supposed to get three quotes for constructing the security improvements to the office, but 
+that we were only able to get two: one from Janotta and Herner and one from Lew 
+Construction.  However, Lew Constructions did not give a dollar amount. The bid for 
+Janotta and Herner was $7,900.  Mr. Krabill stated he thought that was a pretty good 
+price.  Mr. Krabill stated that just to be clear, it would not be paid for from local funds, but 
+would be paid for with grant money.  Ms. Salyers confirmed, and stated it would be paid 
+for with HAVA grant money.   
+ 
+Mr. Smith stated that there were some questions for Gary Weilnau in facilities before 
+voting on the quote.  First, do we have three quotes.  Second, is there a certain date to 
+submit quotes by.  Third, if the dates come past and we only have one quote, is that okay?  
+Motion to go into recess while Ms. Salyers asked Mr. Weilnau these questions was made by 
+Mr. Smith, seconded by Mr. Monaghan.  Motion carried.  Board recessed at 9:53 a.m.   
+ 
+The board went back into session at 10:05 a.m.  Ms. Salyers stated that she did not have 
+answers because Mr. Weilnau was not in, but she left him a message.  Motion to approve 
+the quote from Janotta and Herner if there are no other quotes and if the quote period has 
+passed was made by Mr. Smith, seconded by Mr. Monaghan.  Motion carried.   
+ 
+Mr. Ferrell then asked if there were any questions from the floor, and Ms. Grubbe stated 
+that she had several.  First, she asked if the website could be updated to reflect the hours 
+the dropbox would be open.  Ms. James stated that she updated the website yesterday to 
+say that the dropbox would be available 24/7 until November 13.  Ms. Grubbe then stated 
+that the dropbox was in a difficult location for those who have trouble walking or 
+breathing.   
+ 
+Next, Ms. Grubbe asked who could drop off completed ballots for voters.  Ms. Link stated 
+that the EOM states it must be the voter or a family member.  Ms. James confirmed that 
+was true but stated that we had no way of knowing if someone dropping off someone else’s 
+ballot really was a family member, and that we don’t card people.  Ms. Grubbe stated she 
+was asking because a lot of people were asking about dropping off ballots for other people.  
+Mr. Smith stated that the board cannot give legal advice.  He stated that if people asked, we 
+just had to refer them to the directive from the Secretary of State.   
+ 
+Next, Ms. Grubbe stated that she wanted clarification on poll workers.  She stated that she 
+received from Ms. James a list of confirmed poll workers so far, but she wanted to know 
+that, if we are receiving undecided people who want to work the polls, if we are using them 
+as a last resort, and using the Republicans and Democrats first.   
+ 
+Mr. Ferrell stated that we try to get R’s and D’s.  Ms. Link stated that from her experience, 
+she hired unaffiliated after she went through all her normal people.  Ms. Grubbe stated 
+that’s what I’m asking, and that she was just confirming that we are using party affiliated 
+people first.   
+ 
+Ms. James stated that she already received one call from an unaffiliated person.  He was 
+enthusiastic and wanted to work, and she wasn’t going to turn him away, so she hired him.  
+Ms. Salyers confirmed what Ms. James said, and stated that she had already hired one 
+unaffiliated person as well.  Mr. Krabill stated correct me if I’m wrong, but of the four 
+workers at a precinct, only two must be party affiliated- one R and one D.  The other two 
+can be unaffiliated.  Ms. Salyers stated that that was correct.  
+ 
+ 
+Page 4 of 6
+
+Mr. Krabill then stated that potentially, half of our workers could be unaffiliated.  Ms. 
+Grubbe stated that she realized that, but she wanted to make sure the Board is using R’s 
+and D’s first.  Ms. Salyers stated that she can’t say that.  Mr. Smith stated he didn’t think it 
+would be appropriate to tell an unaffiliated person they can’t work if they call and 
+volunteer.  Ms. Grubbe stated that they’re not volunteering; they’re working.   
+ 
+Mr. Krabill stated that we need to get prepared with poll workers as quickly and as early 
+as possible.  If you know you already have an R and a D at a precinct, you can fill the other 
+spots with an unaffiliated.  Ms. Salyers stated yes, and that she is not waiting.  She also 
+stated that we’re going to be training extra people.  Mr. Krabill stated I think that’s 
+appropriate.  You have the partisan balance that you need.  Beyond that you need bodies.   
+ 
+Next, Ms. Grubbe asked if the office had been in contact with the local post offices in 
+preparation for the election.  Ms. Salyers stated that she had a post office liaison in 
+Cleveland that she talks to, and that she would also be in contact with the Sandusky 
+Postmaster.   
+ 
+Then, Ms. Grubbe asked about masks for the upcoming election.  Ms. Salyers stated masks 
+would be available for all poll workers and for people coming in to vote if they don’t have 
+one.  However, we cannot force people to wear a mask to vote.  Ms. Salyers also stated that 
+we have hand sanitizer and gloves, and we are in the process of securing face shields.  We 
+also have Clorox wipes and alcohol wipes.  
+ 
+Ms. Salyers then stated that, regarding the dropbox, Directive 2020-16 prohibits Boards of 
+Elections from adding anymore dropboxes.  Ms. Cigelese asked why that was the case.  Ms. 
+Salyers stated that she wasn’t sure, but that the SOS had solicited an opinion from the 
+Attorney General.  She also stated that the SOS office was asking about having every 
+mailbox be considered a dropbox.  This way, voters could drop their ballot in a mailbox 
+without a stamp, and it could still get to the Board of Elections.   
+ 
+Mr. Ferrell then stated that he had been in touch with Mr. Weilnau and he stated that 
+there were no other quotes, so it was okay to go with Janotta and Herner.   
+ 
+Next, Ms. Schaefer stated that she understood the directive stating that there can only be 
+one dropbox per county, but that she had a concern about senior citizens with breathing 
+problems.  She then asked the board to consider having a drive-up dropbox to eliminate 
+those problems.  Mr. Ferrell responded that we had followed what the Secretary of State 
+told us to do.  Ms. Schaefer suggested that the board could go a little bit further.  Mr. 
+Ferrell stated that the post office would not sell old mailboxes anymore, and that it wasn’t 
+in the budget.  Ms. Grubbe responded it could be paid for with CARES money.   
+ 
+Mr. Krabill stated that even if we could find a box and install it, we would then have to get 
+cameras and surveillance for it.  Ms. Grubbe again responded that that could come out of 
+CARES.  Mr. Krabill stated that we as a board function under the statutes of the state of 
+Ohio and the Secretary of State.  We also provide ADA accessibility to the dropbox.  We 
+are within the law and the statutes.  Ms. Schaeffer responded that there is a fine line 
+between being within the law and doing what’s best for your constituents.   
+ 
+Mr. Ferrell stated that there is a fine line of living within your budget.  Ms. Schaefer stated 
+that you can use CARES money or ask the county for help.  Ms. Ferrell responded that the 
+county likely wouldn’t help us.  We got our budget cut, staff participated in furlough, and 
+next year will likely be even worse.   
+ 
+Mr. Krabill stated that he understands Ms. Schaefer’s point of view, and he respects it.  
+However, he thinks we have done an admirable job of getting a dropbox out there.  It
+
+Mr. Krabill stated that he understands Ms. Schaefer’s point of view, and he respects it.  
+However, he thinks we have done an admirable job of getting a dropbox out there.  It 
+wasn’t convenient down on the ground, so we got it raised.  The county didn’t want 24/7 
+access, but now we have it.  We fought all these battles to get where we are, and we are now 
+completely compliant.   
+ 
+Mr. Krabill stated that we had a conversation about getting a dropbox downtown, or 
+getting a dropbox on the east end of the county, but that would be a logistical nightmare 
+because you have to have a Republican and a Democrat check it every day.  Mr. Krabill 
+also pointed out that we’re not picky about who drops off the ballot.  
+ 
+Page 5 of 6
+
+Mr. Monaghan stated that there are drive-up mailboxes at the post office, and people can 
+use those as drive-up dropboxes.  Also, the postmaster has been very accommodating.  Ms. 
+Schaefer responded that we don’t know what will happen with the post office.  Mr. 
+Monaghan responded that people can still drop off their ballots at the Sandusky Post 
+Office’s drive-up mailbox, and that’s basically the same thing as having a drive-up box at 
+the Board of Elections office.   
+ 
+Motion to adjourn was made by Mr. Krabill, seconded by Mr. Monaghan.  Motion carried.  
+Board adjourned at 10:30 a.m.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lori J. Salyers, Director 
+ 
+Attest: 
+ 
+__________________________________________  
+Thomas M. Ferrell, Chairman 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 6
+
