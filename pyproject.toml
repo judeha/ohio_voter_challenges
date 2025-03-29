@@ -11,7 +11,6 @@ dependencies = [
     "ruff>=0.6.3",
     "pymongo>=4.10.1",
     "pyyaml",
-    "numpy",
     "requests",
     "lxml",
     "beautifulsoup4",
@@ -23,5 +22,6 @@ dependencies = [
     "matplotlib",
     "pdfminer",
     "langchain-community",
-    "unstructured"
+    "unstructured",
+    "pymupdf4llm",
 ]

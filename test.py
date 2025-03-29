@@ -142,18 +142,34 @@ def dev_ocr(pdf_path, save_path):
     return
 
 def dev_find_challenges(txt_path):
+    """Given a path to a txt file, return all lines that contain keywords"""
     # print lines that contain keywords
     relevant_lines = []
     with open(txt_path, 'r') as f:
         lines = f.readlines()
         for line in lines:
-            if URL_KW.count(line.lower()) > 0:
+            # if URL_KW.count(line.lower()) > 0:
+            if (any(kw in line.lower() for kw in URL_KW)):
                 relevant_lines.append(line)
     return relevant_lines
 
 if __name__ == "__main__":
-    # Get pdf paths
-    for pdf_path in glob.glob("data/pdf/*.pdf"):
-        # strip .pdf
-        save_path = "data/txt/" + pdf_path[9:-4] + ".txt"
-        pages = dev_ocr(pdf_path, save_path)
+    relevant_lines = {}
+    for txt_path in glob.glob("data/txt/*.txt"):
+        lines = dev_find_challenges(txt_path)
+        if lines:
+            relevant_lines[txt_path] = lines
+    
+    # dump
+    with open("challenges.json", 'w') as f:
+        json.dump(relevant_lines, f, indent=4)
+
+    # move relevant urls to new folder
+    for path in relevant_lines.keys():
+        shutil.copy(path, "data/relevant/")
+
+    # # Get pdf paths
+    # for pdf_path in glob.glob("data/pdf/*.pdf"):
+    #     # strip .pdf
+    #     save_path = "data/txt/" + pdf_path[9:-4] + ".txt"
+    #     pages = dev_ocr(pdf_path, save_path)
